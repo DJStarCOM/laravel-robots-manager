@@ -8,7 +8,7 @@
         "laravel-robots-manager"
     ],
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "authors": [
         {
             "name": "Stanislav Tsepeniuk",
@@ -17,8 +17,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=7.1",
-        "laravel/framework": "~5.6.0|~5.7.0|~5.8.0|~6.20.26|~7.0|~8.0"
+        "php": ">=7.2",
+        "laravel/framework": "~6.20.26|~7.0|~8.0"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master",
