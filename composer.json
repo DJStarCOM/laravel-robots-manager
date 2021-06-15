@@ -8,7 +8,6 @@
         "laravel-robots-manager"
     ],
     "license": "MIT",
-    "version": "2.0.0",
     "authors": [
         {
             "name": "Stanislav Tsepeniuk",
@@ -22,6 +21,7 @@
     },
     "require-dev": {
         "roave/security-advisories": "dev-master",
+        "scrutinizer/ocular": "dev-master",
         "phpunit/phpunit": "^6.0 || ^7.0 || ^8.0",
         "squizlabs/php_codesniffer": "^2.4 || ^3.0"
     },
