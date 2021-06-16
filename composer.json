@@ -22,7 +22,7 @@
     "require-dev": {
         "roave/security-advisories": "dev-master",
         "scrutinizer/ocular": "dev-master",
-        "phpunit/phpunit": "^6.0 || ^7.0 || ^8.0",
+        "phpunit/phpunit": "^6.0 || ^7.0 || ^8.0 || ^9.0",
         "squizlabs/php_codesniffer": "^2.4 || ^3.0"
     },
     "autoload": {
